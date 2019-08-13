@@ -2,7 +2,7 @@
 layout: post
 title:  "Instalando servidor smb"
 date:   2019-07-20 19:10:44 -0300
-categories: samba ubuntu linux
+categories: linux ubuntu services samba
 ---
 
 ## Instalação
