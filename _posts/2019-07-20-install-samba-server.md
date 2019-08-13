@@ -68,6 +68,7 @@ sudo smbpasswd -e <USER>
 
 ### 8. Configurar compartilhadores samba em `/etc/samba/smb.conf`
 > adicionar ao fim do arquivo
+
 ```sh
 [<USER>]
     path = <PATH>/<USER>
