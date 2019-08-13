@@ -2,7 +2,7 @@
 layout: post
 title:  "Install docker-compose on ubuntu server 18.04"
 date:   2019-07-03 19:10:44 -0300
-categories: docker ubuntu
+categories: linux ubuntu services docker compose
 ---
 ## Requirements:
 * Docker is already installed on system.
