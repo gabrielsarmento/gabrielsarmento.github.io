@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Instalando servidor smb"
+title:  "Install samba server on ubuntu [pt-Br]"
 date:   2019-07-20 19:10:44 -0300
 categories: linux ubuntu services samba
 ---
