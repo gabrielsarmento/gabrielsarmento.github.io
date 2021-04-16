@@ -5,8 +5,7 @@ permalink: /about/
 ---
 
 Hi,
-My name is Gabriel and I am a computer technician.
-Currently I develop python web services.
+My name is Gabriel and I am a software engineer.
 
 
 I'm creating this blog to keep a simple compendium about what I do.
