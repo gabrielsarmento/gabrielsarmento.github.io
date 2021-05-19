@@ -5,7 +5,6 @@ date:   2021-05-19 19:10:44 -0300
 categories: python tdd pytest mock
 ---
 
-# Guia de testes em python
 
 ## Stack:
 * Python3.6+
