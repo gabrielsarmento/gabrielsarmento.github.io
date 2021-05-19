@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Guia de testes em python"
+date:   2021-05-19 19:10:44 -0300
+categories: python tdd pytest mock
+---
+
 # Guia de testes em python
 
 ## Stack:
